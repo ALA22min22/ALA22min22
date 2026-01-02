@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://i.ibb.co.com/j9ymCy3s/Gemini-Generated-Image-y4vzrwy4vzrwy4vz.png" alt="Hi, I'm Alamin 👋 I'm a 🚀 MERN developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
