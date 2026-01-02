@@ -9,5 +9,10 @@
 
 <h3 align="left">About</h3>
 <p>### Hi there! I'm MD Alamin 👋</p>
+<p>
+🚀 **Passionate MERN Stack Developer** & CSE Graduate from Uttara University.
+💻 Specializing in building scalable web apps using **JavaScript, React.js, Node.js & MongoDB**.
+🎯 Currently focused on mastering **Advanced API Integrations** & turning ideas into efficient digital solutions.
+</p>
 
 
