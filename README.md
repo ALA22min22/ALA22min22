@@ -16,4 +16,11 @@
  - 🔭 Check out my <a href="./Resume.pdf" target="_blank"><b>Resume</b></a><br>
 </p>
 
+<h3 align="left">⚡ Current Stats & Activities</h3>
+- 🔭 I’m currently working on **Full Stack Web Development** projects.
+- 🌱 I’m currently learning **Next.js, TypeScript, and Docker**.
+- 👯 I’m looking to collaborate on **Open Source React Projects**.
+- 💬 Ask me about **JavaScript, React.js, Node.js, and MongoDB**.
+- ⚡ Fun fact: **I love solving complex problems with simple code!**
+
 
