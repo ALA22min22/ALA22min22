@@ -23,9 +23,8 @@
 - 💬 Ask me about **JavaScript, React.js, Node.js, and MongoDB**. <br>
 - ⚡ Fun fact: **I love solving complex problems with simple code!** <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALA22min22&show_icons=true&theme=tokyonight" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALA22min22&layout=compact&theme=tokyonight" height="180" alt="languages" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALA22min22&show_icons=true&theme=tokyonight)](https://github.com/ALA22min22)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALA22min22&layout=compact&theme=tokyonight)](https://github.com/ALA22min22)
 
 
