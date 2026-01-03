@@ -24,7 +24,7 @@
 - ⚡ Fun fact: **I love solving complex problems with simple code!** <br>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALA22min22&theme=tokyonight" alt="profile details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALA22min22&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 
