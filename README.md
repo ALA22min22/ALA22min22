@@ -78,6 +78,7 @@
         <tr align="center">
             <td rowspan="3"><b>Web Development</b></td>
             <td>Core</td>
+            
             <td><img src="https://skillicons.dev/icons?i=html" width="40"><br>HTML</td>
             <td><img src="https://skillicons.dev/icons?i=css" width="40"><br>CSS</td>
             <td><img src="https://skillicons.dev/icons?i=json" width="40"><br>JSON</td> <td></td>
