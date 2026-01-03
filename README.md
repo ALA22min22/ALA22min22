@@ -8,7 +8,7 @@
 <h3 align="center"><strong>Turning Complex Logic into Elegant Web Solutions</strong> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /></h3>
 
 <h3 align="left">About</h3>
-<p>### Hi there! I'm MD Alamin 👋</p>
+<p>Hi there! I'm MD Alamin 👋</p>
 <p>
  - 🚀 **Passionate MERN Stack Developer** & CSE Graduate from Uttara University.<br>
  - 💻 Specializing in building scalable web apps using **JavaScript, React.js, Firebase, Node.js & MongoDB**.<br>
@@ -16,8 +16,14 @@
  - 🔭 Check out my <a href="./Resume.pdf" target="_blank"><b>Resume</b></a><br>
 </p>
 
+<br>
+
+<h3 align="center">💻 Technologies I Use</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman&theme=dark" alt="Skills" />
+</div>
+
 <h3 align="left">⚡ Current Stats & Activities</h3>
-<div class= "border border-red-500">
   - 🔭 I’m currently working on **Full Stack Web Development** projects. <br>
 - 🌱 I’m currently learning **Next.js, Vibe Coding**. <br>
 - 👯 I’m looking to collaborate on **Open Source React Projects**. <br>
@@ -30,13 +36,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALA22min22&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
-</div>
 
-<br>
 
-<h3 align="center">💻 Technologies I Use</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman&theme=dark" alt="Skills" />
-</div>
+
 
 
