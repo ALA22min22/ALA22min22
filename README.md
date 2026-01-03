@@ -24,7 +24,7 @@
 - ⚡ Fun fact: **I love solving complex problems with simple code!** <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ALA22min22&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALA22min22&theme=tokyonight" alt="profile details" />
 </div>
 
 
