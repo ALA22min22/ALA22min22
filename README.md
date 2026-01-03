@@ -23,16 +23,18 @@
 - 💬 Ask me about **JavaScript, React.js, Node.js, and MongoDB**. <br>
 - ⚡ Fun fact: **I love solving complex problems with simple code!** <br>
 
-<h3 align="center">💻 Technologies I Use</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman&theme=dark" alt="Skills" />
-</div>
-
 <br>
 
 <h3 align="center">📈 My Contribution Activity</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALA22min22&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br>
+
+<h3 align="center">💻 Technologies I Use</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman&theme=dark" alt="Skills" />
 </div>
 
 
