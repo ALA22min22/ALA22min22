@@ -23,6 +23,8 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman&theme=dark" alt="Skills" />
 </div>
 
+<br>
+
 <h3 align="left">⚡ Current Stats & Activities</h3>
   - 🔭 I’m currently working on **Full Stack Web Development** projects. <br>
 - 🌱 I’m currently learning **Next.js, Vibe Coding**. <br>
