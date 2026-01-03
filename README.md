@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">⚡ Current Stats & Activities</h3>
-<div className= "border-2 border-red-500">
+<div class= "border border-red-500">
   - 🔭 I’m currently working on **Full Stack Web Development** projects. <br>
 - 🌱 I’m currently learning **Next.js, Vibe Coding**. <br>
 - 👯 I’m looking to collaborate on **Open Source React Projects**. <br>
