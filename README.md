@@ -34,7 +34,7 @@
 
 <br>
 
-<h3 align="center">📈 My Contribution Activity</h3>
+<h3 align="center">📈 My Contribution Stats</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALA22min22&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
