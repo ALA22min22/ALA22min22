@@ -23,8 +23,8 @@
 - 💬 Ask me about **JavaScript, React.js, Node.js, and MongoDB**. <br>
 - ⚡ Fun fact: **I love solving complex problems with simple code!** <br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ALA22min22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ALA22min22&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
 
 
