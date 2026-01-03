@@ -39,6 +39,100 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALA22min22&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
+<br>
+
+<h3 align="left">Skills Section</h3>
+<h3 align="center">🛠️ Tech Stack & Skills</h3>
+<div align="center">
+<table border="1" cellspacing="0" cellpadding="10">
+    <thead>
+        <tr align="center">
+            <th>Main Category</th>
+            <th>Subcategory</th>
+            <th colspan="6">Technologies / Tools</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td rowspan="1"><b>Programming Languages</b></td>
+            <td>-</td>
+            <td>
+                <a href="https://www.javascript.com/" target="_blank">
+                    <img src="https://skillicons.dev/icons?i=javascript" width="40"><br>JavaScript
+                </a>
+            </td>
+            <td>
+                <a href="https://www.c-language.org/" target="_blank">
+                    <img src="https://skillicons.dev/icons?i=c" width="40"><br>C
+                </a>
+            </td>
+            <td>
+                <a href="https://en.cppreference.com/w/cpp/language.html" target="_blank">
+                    <img src="https://skillicons.dev/icons?i=cpp" width="40"><br>C++
+                </a>
+            </td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr align="center">
+            <td rowspan="3"><b>Web Development</b></td>
+            <td>Core</td>
+            <td><img src="https://skillicons.dev/icons?i=html" width="40"><br>HTML</td>
+            <td><img src="https://skillicons.dev/icons?i=css" width="40"><br>CSS</td>
+            <td><img src="https://skillicons.dev/icons?i=json" width="40"><br>JSON</td> <td></td>
+            <td></td>
+        </tr>
+        <tr align="center">
+            <td>Styling Frameworks</td>
+            <td><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</td>
+            <td><img src="https://skillicons.dev/icons?i=bootstrap" width="40"><br>Bootstrap</td> <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr align="center">
+            <td>JS Libraries & Backend</td>
+            <td><img src="https://skillicons.dev/icons?i=react" width="40"><br>React.js</td>
+            <td><img src="https://skillicons.dev/icons?i=nextjs" width="40"><br>Next.js</td>
+            <td><img src="https://skillicons.dev/icons?i=nodejs" width="40"><br>Node.js</td>
+            <td><img src="https://skillicons.dev/icons?i=express" width="40"><br>Express.js</td>
+            <td></td>
+        </tr>
+
+        <tr align="center">
+            <td><b>Databases</b></td>
+            <td>NoSQL</td>
+            <td><img src="https://skillicons.dev/icons?i=mongodb" width="40"><br>MongoDB</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr align="center">
+            <td><b>Deployment</b></td>
+            <td>-</td>
+            <td><img src="https://skillicons.dev/icons?i=vercel" width="40"><br>Vercel</td>
+            <td><img src="https://skillicons.dev/icons?i=firebase" width="40"><br>Firebase</td>
+            <td><img src="https://skillicons.dev/icons?i=netlify" width="40"><br>Netlify</td>
+            <td><img src="https://simpleicons.org/icons/render.svg" width="40"><br>Render</td>
+            <td></td>
+        </tr>
+
+        <tr align="center">
+            <td><b>Tools & VC</b></td>
+            <td>-</td>
+            <td><img src="https://skillicons.dev/icons?i=github" width="40"><br>GitHub</td>
+            <td><img src="https://skillicons.dev/icons?i=vscode" width="40"><br>VS Code</td>
+            <td><img src="https://skillicons.dev/icons?i=postman" width="40"><br>Postman</td>
+            <td><img src="https://skillicons.dev/icons?i=figma" width="40"><br>Figma</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+
 
 
 
