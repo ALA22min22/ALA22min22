@@ -17,7 +17,8 @@
 </p>
 
 <h3 align="left">⚡ Current Stats & Activities</h3>
-- 🔭 I’m currently working on **Full Stack Web Development** projects. <br>
+<div className= "border">
+  - 🔭 I’m currently working on **Full Stack Web Development** projects. <br>
 - 🌱 I’m currently learning **Next.js, Vibe Coding**. <br>
 - 👯 I’m looking to collaborate on **Open Source React Projects**. <br>
 - 💬 Ask me about **JavaScript, React.js, Node.js, and MongoDB**. <br>
@@ -28,6 +29,7 @@
 <h3 align="center">📈 My Contribution Activity</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALA22min22&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</div>
 </div>
 
 <br>
