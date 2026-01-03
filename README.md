@@ -56,61 +56,60 @@
       <tr align="center">
         <td rowspan="1"><b>Programming Languages</b></td>
         <td>-</td>
-        <td><a href="[https://www.javascript.com/](https://www.javascript.com/)" target="_blank"><img src="[https://skillicons.dev/icons?i=javascript](https://skillicons.dev/icons?i=javascript)" width="40"><br>JavaScript</a></td>
-        <td><a href="[https://www.c-language.org/](https://www.c-language.org/)" target="_blank"><img src="[https://skillicons.dev/icons?i=c](https://skillicons.dev/icons?i=c)" width="40"><br>C</a></td>
-        <td><a href="[https://en.cppreference.com/w/cpp/language.html](https://en.cppreference.com/w/cpp/language.html)" target="_blank"><img src="[https://skillicons.dev/icons?i=cpp](https://skillicons.dev/icons?i=cpp)" width="40"><br>C++</a></td>
+        <td><a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40"><br>JavaScript</a></td>
+        <td><a href="https://www.c-language.org/" target="_blank"><img src="https://cdn.simpleicons.org/c/A8B9CC" width="40"><br>C</a></td>
+        <td><a href="https://en.cppreference.com/w/cpp/language.html" target="_blank"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40"><br>C++</a></td>
         <td></td><td></td><td></td>
       </tr>
       <tr align="center">
         <td rowspan="3"><b>Web Development</b></td>
         <td>Core</td>
-        <td><img src="[https://skillicons.dev/icons?i=html](https://skillicons.dev/icons?i=html)" width="40"><br>HTML</td>
-        <td><img src="[https://skillicons.dev/icons?i=css](https://skillicons.dev/icons?i=css)" width="40"><br>CSS</td>
-        <td><img src="[https://skillicons.dev/icons?i=json](https://skillicons.dev/icons?i=json)" width="40"><br>JSON</td>
+        <td><img src="https://cdn.simpleicons.org/html5/E34F26" width="40"><br>HTML</td>
+        <td><img src="https://cdn.simpleicons.org/css3/1572B6" width="40"><br>CSS</td>
+        <td><img src="https://cdn.simpleicons.org/json/000000/white" width="40"><br>JSON</td>
         <td></td><td></td><td></td>
       </tr>
       <tr align="center">
         <td>Styling Frameworks</td>
-        <td><img src="[https://skillicons.dev/icons?i=tailwind](https://skillicons.dev/icons?i=tailwind)" width="40"><br>Tailwind</td>
-        <td><img src="[https://skillicons.dev/icons?i=bootstrap](https://skillicons.dev/icons?i=bootstrap)" width="40"><br>Bootstrap</td>
+        <td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40"><br>Tailwind</td>
+        <td><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40"><br>Bootstrap</td>
         <td></td><td></td><td></td><td></td>
       </tr>
       <tr align="center">
         <td>JS Libs & Backend</td>
-        <td><img src="[https://skillicons.dev/icons?i=react](https://skillicons.dev/icons?i=react)" width="40"><br>React.js</td>
-        <td><img src="[https://skillicons.dev/icons?i=nextjs](https://skillicons.dev/icons?i=nextjs)" width="40"><br>Next.js</td>
-        <td><img src="[https://skillicons.dev/icons?i=nodejs](https://skillicons.dev/icons?i=nodejs)" width="40"><br>Node.js</td>
-        <td><img src="[https://skillicons.dev/icons?i=express](https://skillicons.dev/icons?i=express)" width="40"><br>Express.js</td>
+        <td><img src="https://cdn.simpleicons.org/react/61DAFB" width="40"><br>React.js</td>
+        <td><img src="https://cdn.simpleicons.org/nextdotjs/white" width="40"><br>Next.js</td>
+        <td><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40"><br>Node.js</td>
+        <td><img src="https://cdn.simpleicons.org/express/white" width="40"><br>Express.js</td>
         <td></td><td></td>
       </tr>
       <tr align="center">
         <td><b>Databases</b></td>
         <td>NoSQL</td>
-        <td><img src="[https://skillicons.dev/icons?i=mongodb](https://skillicons.dev/icons?i=mongodb)" width="40"><br>MongoDB</td>
+        <td><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40"><br>MongoDB</td>
         <td></td><td></td><td></td><td></td><td></td>
       </tr>
       <tr align="center">
         <td><b>Deployment</b></td>
         <td>-</td>
-        <td><img src="[https://skillicons.dev/icons?i=vercel](https://skillicons.dev/icons?i=vercel)" width="40"><br>Vercel</td>
-        <td><img src="[https://skillicons.dev/icons?i=firebase](https://skillicons.dev/icons?i=firebase)" width="40"><br>Firebase</td>
-        <td><img src="[https://skillicons.dev/icons?i=netlify](https://skillicons.dev/icons?i=netlify)" width="40"><br>Netlify</td>
-        <td><img src="[https://simpleicons.org/icons/render.svg](https://simpleicons.org/icons/render.svg)" width="40"><br>Render</td>
+        <td><img src="https://cdn.simpleicons.org/vercel/white" width="40"><br>Vercel</td>
+        <td><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40"><br>Firebase</td>
+        <td><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40"><br>Netlify</td>
+        <td><img src="https://cdn.simpleicons.org/render/white" width="40"><br>Render</td>
         <td></td><td></td>
       </tr>
       <tr align="center">
         <td><b>Tools & VC</b></td>
         <td>-</td>
-        <td><img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" width="40"><br>GitHub</td>
-        <td><img src="[https://skillicons.dev/icons?i=vscode](https://skillicons.dev/icons?i=vscode)" width="40"><br>VS Code</td>
-        <td><img src="[https://skillicons.dev/icons?i=postman](https://skillicons.dev/icons?i=postman)" width="40"><br>Postman</td>
-        <td><img src="[https://skillicons.dev/icons?i=figma](https://skillicons.dev/icons?i=figma)" width="40"><br>Figma</td>
+        <td><img src="https://cdn.simpleicons.org/github/white" width="40"><br>GitHub</td>
+        <td><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40"><br>VS Code</td>
+        <td><img src="https://cdn.simpleicons.org/postman/FF6C37" width="40"><br>Postman</td>
+        <td><img src="https://cdn.simpleicons.org/figma/F24E1E" width="40"><br>Figma</td>
         <td></td><td></td>
       </tr>
     </tbody>
   </table>
 </div>
-
 
 
 
