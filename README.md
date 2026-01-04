@@ -71,7 +71,7 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Statistics</h3>
+<h3 align="left">📊 GitHub Statistics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALA22min22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
