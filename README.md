@@ -43,70 +43,79 @@
       <tr align="center">
         <th>Main Category</th>
         <th>Subcategory</th>
-        <th colspan="4">Technologies / Tools</th>
+        <th>Technologies / Tools</th>
       </tr>
     </thead>
     <tbody>
       <tr align="center">
-        <td rowspan="1"><b>Programming Languages</b></td>
+        <td><b>Programming Languages</b></td>
         <td>-</td>
-        <td><img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript</td>
-        <td><img src="https://skillicons.dev/icons?i=c" width="40"><br>C</td>
-        <td><img src="https://skillicons.dev/icons?i=cpp" width="40"><br>C++</td>
-        <td></td>
+        <td>
+          <div style="display: flex; gap: 20px; justify-content: center;">
+            <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript</div>
+            <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=c" width="40"><br>C</div>
+            <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=cpp" width="40"><br>C++</div>
+          </div>
+        </td>
       </tr>
       <tr align="center">
         <td rowspan="4"><b>Web Development</b></td>
         <td>Core</td>
-        <td><img src="https://skillicons.dev/icons?i=html" width="40"><br>HTML</td>
-        <td><img src="https://skillicons.dev/icons?i=css" width="40"><br>CSS</td>
-        <td><img src="https://skillicons.dev/icons?i=json" width="40"><br>JSON</td>
-        <td></td>
+        <td>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=html" width="40"><br>HTML</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=css" width="40"><br>CSS</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=json" width="40"><br>JSON</div>
+        </td>
       </tr>
       <tr align="center">
         <td>Styling Frameworks</td>
-        <td><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</td>
-        <td><img src="https://skillicons.dev/icons?i=css" width="40"><br>CSS</td>
-        <td></td>
-        <td></td>
+        <td>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"><br>Bootstrap</div>
+        </td>
       </tr>
       <tr align="center">
         <td>JS Libs & Backend</td>
-        <td><img src="https://skillicons.dev/icons?i=react" width="40"><br>React.js</td>
-        <td><img src="https://skillicons.dev/icons?i=nextjs" width="40"><br>Next.js</td>
-        <td><img src="https://skillicons.dev/icons?i=nodejs" width="40"><br>Node.js</td>
-        <td><img src="https://skillicons.dev/icons?i=express" width="40"><br>Express.js</td>
+        <td>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React.js</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=nextjs" width="40"><br>Next.js</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=nodejs" width="40"><br>Node.js</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=express" width="40"><br>Express.js</div>
+        </td>
       </tr>
       <tr align="center">
         <td>Authentication</td>
-        <td><img src="https://skillicons.dev/icons?i=firebase" width="40"><br>Firebase</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=firebase" width="40"><br>Firebase</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://img.icons8.com/color/48/000000/jwt.png" width="40"><br>JWT</div>
+        </td>
       </tr>
       <tr align="center">
         <td><b>Databases</b></td>
         <td>NoSQL</td>
-        <td><img src="https://skillicons.dev/icons?i=mongodb" width="40"><br>MongoDB</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=mongodb" width="40"><br>MongoDB</div>
+        </td>
       </tr>
       <tr align="center">
         <td><b>Deployment</b></td>
         <td>-</td>
-        <td><img src="https://skillicons.dev/icons?i=vercel" width="40"><br>Vercel</td>
-        <td><img src="https://skillicons.dev/icons?i=firebase" width="40"><br>Firebase</td>
-        <td><img src="https://skillicons.dev/icons?i=netlify" width="40"><br>Netlify</td>
-        <td><img src="https://cdn.simpleicons.org/githubactions/white" width="40"><br>Github Actions</td>
+        <td>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=vercel" width="40"><br>Vercel</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=netlify" width="40"><br>Netlify</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=firebase" width="40"><br>Firebase</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://cdn.simpleicons.org/githubactions/white" width="40"><br>GitHub Actions</div>
+        </td>
       </tr>
       <tr align="center">
         <td><b>Tools & VC</b></td>
         <td>-</td>
-        <td><img src="https://skillicons.dev/icons?i=github" width="40"><br>GitHub</td>
-        <td><img src="https://skillicons.dev/icons?i=vscode" width="40"><br>VS Code</td>
-        <td><img src="https://skillicons.dev/icons?i=postman" width="40"><br>Postman</td>
-        <td><img src="https://skillicons.dev/icons?i=figma" width="40"><br>Figma</td>
+        <td>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=github" width="40"><br>GitHub</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=vscode" width="40"><br>VS Code</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=postman" width="40"><br>Postman</div>
+          <div style="display: inline-block; margin: 10px;"><img src="https://skillicons.dev/icons?i=figma" width="40"><br>Figma</div>
+        </td>
       </tr>
     </tbody>
   </table>
