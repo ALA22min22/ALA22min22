@@ -1,4 +1,4 @@
-# 🎓 Hi, I'm Al Amin | MERN Stack Developer
+# 🎓 Hi, I'm MD. Al Amin | MERN Stack Developer
 <p align="center">
   <img src="https://i.ibb.co.com/j9ymCy3s/Gemini-Generated-Image-y4vzrwy4vzrwy4vz.png" alt="Hi, I'm Alamin 👋 I'm a 🚀 MERN developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
@@ -79,7 +79,7 @@
           <table border="0">
             <tr>
               <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</td>
-              <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"><br>Bootstrap</td>
+              <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="40"><br>CSS</td>
             </tr>
           </table>
         </td>
