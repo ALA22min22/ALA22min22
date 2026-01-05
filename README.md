@@ -175,9 +175,11 @@
 <h3 align="left">📊 GitHub Statistics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALA22min22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALA22min22&show_icons=true&theme=tokyonight&hide_border=true&hide_bg=true&count_private=true" height="160" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALA22min22&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+  &nbsp;&nbsp;
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALA22min22&layout=compact&theme=tokyonight&hide_border=true&hide_bg=true&langs_count=6" height="160" alt="Top Languages" />
 </div>
 
 <br>
