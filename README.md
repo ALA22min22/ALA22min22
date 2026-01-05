@@ -175,16 +175,22 @@
 <h3 align="left">📊 GitHub Statistics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALA22min22&show_icons=true&theme=tokyonight&hide_border=true&hide_bg=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALA22min22&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
   
   &nbsp;&nbsp;
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALA22min22&layout=compact&theme=tokyonight&hide_border=true&hide_bg=true&langs_count=6" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALA22min22&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALA22min22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALA22min22&theme=tokyonight&bg_color=00000000&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<br>
+
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALA22min22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div> -->
 
