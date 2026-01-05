@@ -43,7 +43,7 @@
       <tr align="center">
         <th>Main Category</th>
         <th>Subcategory</th>
-        <th>Technologies / Tools (Logo with Name)</th>
+        <th>Technologies / Tools</th>
       </tr>
     </thead>
     <tbody>
